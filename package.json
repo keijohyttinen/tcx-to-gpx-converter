@@ -1,0 +1,15 @@
+{
+  "name": "tcxtogpx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "convert.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@sports-alliance/sports-lib": "^5.4.16",
+    "xmldom": "^0.4.0"
+  }
+}
